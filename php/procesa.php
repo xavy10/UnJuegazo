@@ -1,9 +1,9 @@
 <?php
   echo "hola esto se cambio";
-  echo "Soi moi y me gusta el roger";
+  echo "i hate you";
 
-  function miFuncion(){
-    echo "esta";
+  function hola(){
+    echo "moy";
   }
 
   function miFuncion1(){
@@ -12,5 +12,9 @@
 
   function miFuncion2(){
     echo "esta";
+  }
+
+  function miFuncion3(){
+    echo "moy";
   }
  ?>
